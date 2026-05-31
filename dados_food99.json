@@ -1,0 +1,3046 @@
+{
+  "updatedAt": "2026-05-31",
+  "source": "catalogo_food99",
+  "merchants": [
+    {
+      "name": "Domino's Pizza",
+      "cuisine": "Pizza",
+      "rating": 4.1,
+      "reviews": 430,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Domino%27s+Pizza",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 41.31
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 38.55
+        }
+      ]
+    },
+    {
+      "name": "Pizza Hut",
+      "cuisine": "Pizza",
+      "rating": 4.2,
+      "reviews": 489,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Pizza+Hut",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 44.32
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 41.51
+        }
+      ]
+    },
+    {
+      "name": "Spoleto",
+      "cuisine": "Pizza",
+      "rating": 4.2,
+      "reviews": 375,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Spoleto",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 47.41
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 44.55
+        }
+      ]
+    },
+    {
+      "name": "Pizza Crek",
+      "cuisine": "Pizza",
+      "rating": 4.4,
+      "reviews": 507,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Pizza+Crek",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 43.33
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 40.43
+        }
+      ]
+    },
+    {
+      "name": "Vero Pizza Bar",
+      "cuisine": "Pizza",
+      "rating": 4.5,
+      "reviews": 589,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vero+Pizza+Bar",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 46.45
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 43.51
+        }
+      ]
+    },
+    {
+      "name": "Quintal do Espeto Pizza",
+      "cuisine": "Pizza",
+      "rating": 4.5,
+      "reviews": 760,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Quintal+do+Espeto+Pizza",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 45.91
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 43.15
+        }
+      ]
+    },
+    {
+      "name": "Forno de Minas Pizza",
+      "cuisine": "Pizza",
+      "rating": 4.7,
+      "reviews": 930,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Forno+de+Minas+Pizza",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 41.98
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 39.18
+        }
+      ]
+    },
+    {
+      "name": "Pizza Prime",
+      "cuisine": "Pizza",
+      "rating": 4.8,
+      "reviews": 836,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Pizza+Prime",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 45.03
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 42.18
+        }
+      ]
+    },
+    {
+      "name": "La Brasa Pizzaria",
+      "cuisine": "Pizza",
+      "rating": 4.9,
+      "reviews": 917,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=La+Brasa+Pizzaria",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 48.15
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 45.26
+        }
+      ]
+    },
+    {
+      "name": "Madero Steak House Pizza",
+      "cuisine": "Pizza",
+      "rating": 4.1,
+      "reviews": 1191,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Madero+Steak+House+Pizza",
+      "items": [
+        {
+          "name": "Pizza Margherita M",
+          "price": 44.0
+        },
+        {
+          "name": "Pizza Calabresa M",
+          "price": 41.06
+        }
+      ]
+    },
+    {
+      "name": "Burger King",
+      "cuisine": "Hamburguer",
+      "rating": 4.1,
+      "reviews": 395,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Burger+King",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 35.79
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 39.47
+        }
+      ]
+    },
+    {
+      "name": "McDonald's",
+      "cuisine": "Hamburguer",
+      "rating": 4.2,
+      "reviews": 205,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=McDonald%27s",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 38.71
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 42.45
+        }
+      ]
+    },
+    {
+      "name": "Bob's",
+      "cuisine": "Hamburguer",
+      "rating": 4.2,
+      "reviews": 535,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bob%27s",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 41.7
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 45.51
+        }
+      ]
+    },
+    {
+      "name": "Outback Burger",
+      "cuisine": "Hamburguer",
+      "rating": 4.4,
+      "reviews": 619,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Outback+Burger",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 37.54
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 41.4
+        }
+      ]
+    },
+    {
+      "name": "Madero",
+      "cuisine": "Hamburguer",
+      "rating": 4.5,
+      "reviews": 738,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Madero",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 40.57
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 44.49
+        }
+      ]
+    },
+    {
+      "name": "The Fifties",
+      "cuisine": "Hamburguer",
+      "rating": 4.5,
+      "reviews": 764,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=The+Fifties",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 40.39
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 44.07
+        }
+      ]
+    },
+    {
+      "name": "Habib's Burger",
+      "cuisine": "Hamburguer",
+      "rating": 4.7,
+      "reviews": 633,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Habib%27s+Burger",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 36.37
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 40.11
+        }
+      ]
+    },
+    {
+      "name": "Burguer Lab",
+      "cuisine": "Hamburguer",
+      "rating": 4.8,
+      "reviews": 701,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Burguer+Lab",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 39.33
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 43.13
+        }
+      ]
+    },
+    {
+      "name": "Vila do Hamburger",
+      "cuisine": "Hamburguer",
+      "rating": 4.9,
+      "reviews": 901,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vila+do+Hamburger",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 42.36
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 46.22
+        }
+      ]
+    },
+    {
+      "name": "Mequi",
+      "cuisine": "Hamburguer",
+      "rating": 4.1,
+      "reviews": 1027,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Mequi",
+      "items": [
+        {
+          "name": "Combo Burger",
+          "price": 38.12
+        },
+        {
+          "name": "Smash Duplo",
+          "price": 42.04
+        }
+      ]
+    },
+    {
+      "name": "Poke Mania",
+      "cuisine": "Japonesa",
+      "rating": 4.1,
+      "reviews": 411,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Poke+Mania",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 45.91
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 30.27
+        }
+      ]
+    },
+    {
+      "name": "Gendai",
+      "cuisine": "Japonesa",
+      "rating": 4.2,
+      "reviews": 299,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Gendai",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 48.99
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 33.1
+        }
+      ]
+    },
+    {
+      "name": "Sushi Bar",
+      "cuisine": "Japonesa",
+      "rating": 4.2,
+      "reviews": 687,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sushi+Bar",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 52.16
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 36.01
+        }
+      ]
+    },
+    {
+      "name": "Temaki House",
+      "cuisine": "Japonesa",
+      "rating": 4.4,
+      "reviews": 352,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Temaki+House",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 48.15
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 31.75
+        }
+      ]
+    },
+    {
+      "name": "Sushiloko",
+      "cuisine": "Japonesa",
+      "rating": 4.5,
+      "reviews": 842,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sushiloko",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 51.35
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 34.69
+        }
+      ]
+    },
+    {
+      "name": "Yakitori San",
+      "cuisine": "Japonesa",
+      "rating": 4.5,
+      "reviews": 896,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Yakitori+San",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 50.51
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 34.87
+        }
+      ]
+    },
+    {
+      "name": "Koni Store",
+      "cuisine": "Japonesa",
+      "rating": 4.7,
+      "reviews": 753,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Koni+Store",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 46.66
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 30.76
+        }
+      ]
+    },
+    {
+      "name": "Sushi Ten",
+      "cuisine": "Japonesa",
+      "rating": 4.8,
+      "reviews": 770,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sushi+Ten",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 49.78
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 33.63
+        }
+      ]
+    },
+    {
+      "name": "Origens do Sushi",
+      "cuisine": "Japonesa",
+      "rating": 4.9,
+      "reviews": 1071,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Origens+do+Sushi",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 52.98
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 36.57
+        }
+      ]
+    },
+    {
+      "name": "Kane Poke",
+      "cuisine": "Japonesa",
+      "rating": 4.1,
+      "reviews": 1159,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Kane+Poke",
+      "items": [
+        {
+          "name": "Combo Sushi 20 pecas",
+          "price": 48.9
+        },
+        {
+          "name": "Temaki Salmao",
+          "price": 32.24
+        }
+      ]
+    },
+    {
+      "name": "Madero",
+      "cuisine": "Brasileira",
+      "rating": 4.1,
+      "reviews": 442,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Madero",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 26.59
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 32.11
+        }
+      ]
+    },
+    {
+      "name": "Outback",
+      "cuisine": "Brasileira",
+      "rating": 4.2,
+      "reviews": 269,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Outback",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 29.36
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 34.97
+        }
+      ]
+    },
+    {
+      "name": "Coco Bambu",
+      "cuisine": "Brasileira",
+      "rating": 4.2,
+      "reviews": 466,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Coco+Bambu",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 32.2
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 37.91
+        }
+      ]
+    },
+    {
+      "name": "Vivenda do Camarao",
+      "cuisine": "Brasileira",
+      "rating": 4.4,
+      "reviews": 631,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vivenda+do+Camarao",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 27.89
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 33.68
+        }
+      ]
+    },
+    {
+      "name": "Panela Mineira",
+      "cuisine": "Brasileira",
+      "rating": 4.5,
+      "reviews": 664,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Panela+Mineira",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 30.77
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 36.65
+        }
+      ]
+    },
+    {
+      "name": "Brazuca Grill",
+      "cuisine": "Brasileira",
+      "rating": 4.5,
+      "reviews": 824,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Brazuca+Grill",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 31.19
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 36.71
+        }
+      ]
+    },
+    {
+      "name": "Sabor de Casa",
+      "cuisine": "Brasileira",
+      "rating": 4.7,
+      "reviews": 626,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sabor+de+Casa",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 27.02
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 32.63
+        }
+      ]
+    },
+    {
+      "name": "Restaurante do Zé",
+      "cuisine": "Brasileira",
+      "rating": 4.8,
+      "reviews": 1015,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Restaurante+do+Z%C3%A9",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 29.83
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 35.53
+        }
+      ]
+    },
+    {
+      "name": "Panela Quente",
+      "cuisine": "Brasileira",
+      "rating": 4.9,
+      "reviews": 940,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Panela+Quente",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 32.71
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 38.5
+        }
+      ]
+    },
+    {
+      "name": "Tempero Brasileiro",
+      "cuisine": "Brasileira",
+      "rating": 4.1,
+      "reviews": 918,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Tempero+Brasileiro",
+      "items": [
+        {
+          "name": "Prato Feito",
+          "price": 28.32
+        },
+        {
+          "name": "Feijoada Individual",
+          "price": 34.2
+        }
+      ]
+    },
+    {
+      "name": "Spoleto",
+      "cuisine": "Italiana",
+      "rating": 4.1,
+      "reviews": 227,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Spoleto",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 33.95
+        },
+        {
+          "name": "Lasanha",
+          "price": 36.71
+        }
+      ]
+    },
+    {
+      "name": "Vivenda do Camarao Italiano",
+      "cuisine": "Italiana",
+      "rating": 4.2,
+      "reviews": 296,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vivenda+do+Camarao+Italiano",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 36.84
+        },
+        {
+          "name": "Lasanha",
+          "price": 39.64
+        }
+      ]
+    },
+    {
+      "name": "Cantina do Bacco",
+      "cuisine": "Italiana",
+      "rating": 4.2,
+      "reviews": 432,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Cantina+do+Bacco",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 39.8
+        },
+        {
+          "name": "Lasanha",
+          "price": 42.66
+        }
+      ]
+    },
+    {
+      "name": "La Pasta",
+      "cuisine": "Italiana",
+      "rating": 4.4,
+      "reviews": 372,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=La+Pasta",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 35.61
+        },
+        {
+          "name": "Lasanha",
+          "price": 38.5
+        }
+      ]
+    },
+    {
+      "name": "Olive Garden",
+      "cuisine": "Italiana",
+      "rating": 4.5,
+      "reviews": 545,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Olive+Garden",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 38.61
+        },
+        {
+          "name": "Lasanha",
+          "price": 41.55
+        }
+      ]
+    },
+    {
+      "name": "Pasta Way",
+      "cuisine": "Italiana",
+      "rating": 4.5,
+      "reviews": 674,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Pasta+Way",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 38.55
+        },
+        {
+          "name": "Lasanha",
+          "price": 41.31
+        }
+      ]
+    },
+    {
+      "name": "Nonna Maria",
+      "cuisine": "Italiana",
+      "rating": 4.7,
+      "reviews": 684,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Nonna+Maria",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 34.5
+        },
+        {
+          "name": "Lasanha",
+          "price": 37.31
+        }
+      ]
+    },
+    {
+      "name": "Trattoria Roma",
+      "cuisine": "Italiana",
+      "rating": 4.8,
+      "reviews": 827,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Trattoria+Roma",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 37.43
+        },
+        {
+          "name": "Lasanha",
+          "price": 40.28
+        }
+      ]
+    },
+    {
+      "name": "Bella Italia",
+      "cuisine": "Italiana",
+      "rating": 4.9,
+      "reviews": 935,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bella+Italia",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 40.43
+        },
+        {
+          "name": "Lasanha",
+          "price": 43.33
+        }
+      ]
+    },
+    {
+      "name": "Massa & Cia",
+      "cuisine": "Italiana",
+      "rating": 4.1,
+      "reviews": 1160,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Massa+%26+Cia",
+      "items": [
+        {
+          "name": "Espaguete Bolonhesa",
+          "price": 36.16
+        },
+        {
+          "name": "Lasanha",
+          "price": 39.1
+        }
+      ]
+    },
+    {
+      "name": "Natural Garden",
+      "cuisine": "Saudavel",
+      "rating": 4.1,
+      "reviews": 464,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Natural+Garden",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 35.79
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 32.11
+        }
+      ]
+    },
+    {
+      "name": "Fresh Fit",
+      "cuisine": "Saudavel",
+      "rating": 4.2,
+      "reviews": 475,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Fresh+Fit",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 38.71
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 34.97
+        }
+      ]
+    },
+    {
+      "name": "Green Life",
+      "cuisine": "Saudavel",
+      "rating": 4.2,
+      "reviews": 628,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Green+Life",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 41.7
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 37.91
+        }
+      ]
+    },
+    {
+      "name": "Saudavel Express",
+      "cuisine": "Saudavel",
+      "rating": 4.4,
+      "reviews": 665,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Saudavel+Express",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 37.54
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 33.68
+        }
+      ]
+    },
+    {
+      "name": "Low Carb Kitchen",
+      "cuisine": "Saudavel",
+      "rating": 4.5,
+      "reviews": 782,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Low+Carb+Kitchen",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 40.57
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 36.65
+        }
+      ]
+    },
+    {
+      "name": "Nutri Bowl",
+      "cuisine": "Saudavel",
+      "rating": 4.5,
+      "reviews": 688,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Nutri+Bowl",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 40.39
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 36.71
+        }
+      ]
+    },
+    {
+      "name": "Vida Leve",
+      "cuisine": "Saudavel",
+      "rating": 4.7,
+      "reviews": 817,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vida+Leve",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 36.37
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 32.63
+        }
+      ]
+    },
+    {
+      "name": "Fit Food",
+      "cuisine": "Saudavel",
+      "rating": 4.8,
+      "reviews": 757,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Fit+Food",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 39.33
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 35.53
+        }
+      ]
+    },
+    {
+      "name": "Organico House",
+      "cuisine": "Saudavel",
+      "rating": 4.9,
+      "reviews": 781,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Organico+House",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 42.36
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 38.5
+        }
+      ]
+    },
+    {
+      "name": "Bem Natural",
+      "cuisine": "Saudavel",
+      "rating": 4.1,
+      "reviews": 834,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bem+Natural",
+      "items": [
+        {
+          "name": "Bowl Fit",
+          "price": 38.12
+        },
+        {
+          "name": "Salada Proteica",
+          "price": 34.2
+        }
+      ]
+    },
+    {
+      "name": "Habib's",
+      "cuisine": "Arabe",
+      "rating": 4.1,
+      "reviews": 538,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Habib%27s",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 27.51
+        },
+        {
+          "name": "Shawarma",
+          "price": 25.67
+        }
+      ]
+    },
+    {
+      "name": "Ragazzo Esfihas",
+      "cuisine": "Arabe",
+      "rating": 4.2,
+      "reviews": 223,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Ragazzo+Esfihas",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 30.29
+        },
+        {
+          "name": "Shawarma",
+          "price": 28.42
+        }
+      ]
+    },
+    {
+      "name": "Beirut",
+      "cuisine": "Arabe",
+      "rating": 4.2,
+      "reviews": 630,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Beirut",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 33.16
+        },
+        {
+          "name": "Shawarma",
+          "price": 31.26
+        }
+      ]
+    },
+    {
+      "name": "Arabian House",
+      "cuisine": "Arabe",
+      "rating": 4.4,
+      "reviews": 749,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Arabian+House",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 28.85
+        },
+        {
+          "name": "Shawarma",
+          "price": 26.92
+        }
+      ]
+    },
+    {
+      "name": "Aladdin",
+      "cuisine": "Arabe",
+      "rating": 4.5,
+      "reviews": 806,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Aladdin",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 31.75
+        },
+        {
+          "name": "Shawarma",
+          "price": 29.79
+        }
+      ]
+    },
+    {
+      "name": "Damasco",
+      "cuisine": "Arabe",
+      "rating": 4.5,
+      "reviews": 688,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Damasco",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 32.11
+        },
+        {
+          "name": "Shawarma",
+          "price": 30.27
+        }
+      ]
+    },
+    {
+      "name": "Libanes Grill",
+      "cuisine": "Arabe",
+      "rating": 4.7,
+      "reviews": 765,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Libanes+Grill",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 27.96
+        },
+        {
+          "name": "Shawarma",
+          "price": 26.09
+        }
+      ]
+    },
+    {
+      "name": "Esfiharia do Líbano",
+      "cuisine": "Arabe",
+      "rating": 4.8,
+      "reviews": 995,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Esfiharia+do+L%C3%ADbano",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 30.78
+        },
+        {
+          "name": "Shawarma",
+          "price": 28.88
+        }
+      ]
+    },
+    {
+      "name": "Sahara",
+      "cuisine": "Arabe",
+      "rating": 4.9,
+      "reviews": 1075,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sahara",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 33.68
+        },
+        {
+          "name": "Shawarma",
+          "price": 31.75
+        }
+      ]
+    },
+    {
+      "name": "Kebab House",
+      "cuisine": "Arabe",
+      "rating": 4.1,
+      "reviews": 959,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Kebab+House",
+      "items": [
+        {
+          "name": "Esfiha Aberta 6un",
+          "price": 29.3
+        },
+        {
+          "name": "Shawarma",
+          "price": 27.34
+        }
+      ]
+    },
+    {
+      "name": "China in Box",
+      "cuisine": "Chinesa",
+      "rating": 4.1,
+      "reviews": 395,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=China+in+Box",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 30.27
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 22.91
+        }
+      ]
+    },
+    {
+      "name": "Gendai Yakisoba",
+      "cuisine": "Chinesa",
+      "rating": 4.2,
+      "reviews": 288,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Gendai+Yakisoba",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 33.1
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 25.62
+        }
+      ]
+    },
+    {
+      "name": "Wok Express",
+      "cuisine": "Chinesa",
+      "rating": 4.2,
+      "reviews": 655,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Wok+Express",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 36.01
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 28.41
+        }
+      ]
+    },
+    {
+      "name": "Dragao Oriental",
+      "cuisine": "Chinesa",
+      "rating": 4.4,
+      "reviews": 489,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Dragao+Oriental",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 31.75
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 24.03
+        }
+      ]
+    },
+    {
+      "name": "Casa China",
+      "cuisine": "Chinesa",
+      "rating": 4.5,
+      "reviews": 786,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Casa+China",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 34.69
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 26.85
+        }
+      ]
+    },
+    {
+      "name": "Mandarin",
+      "cuisine": "Chinesa",
+      "rating": 4.5,
+      "reviews": 726,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Mandarin",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 34.87
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 27.51
+        }
+      ]
+    },
+    {
+      "name": "Panda Express BR",
+      "cuisine": "Chinesa",
+      "rating": 4.7,
+      "reviews": 598,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Panda+Express+BR",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 30.76
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 23.28
+        }
+      ]
+    },
+    {
+      "name": "Sabor Oriental",
+      "cuisine": "Chinesa",
+      "rating": 4.8,
+      "reviews": 816,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sabor+Oriental",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 33.63
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 26.03
+        }
+      ]
+    },
+    {
+      "name": "Wok & Co",
+      "cuisine": "Chinesa",
+      "rating": 4.9,
+      "reviews": 1009,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Wok+%26+Co",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 36.57
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 28.85
+        }
+      ]
+    },
+    {
+      "name": "Imperio Chines",
+      "cuisine": "Chinesa",
+      "rating": 4.1,
+      "reviews": 1178,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Imperio+Chines",
+      "items": [
+        {
+          "name": "Yakisoba",
+          "price": 32.24
+        },
+        {
+          "name": "Rolinho Primavera 8un",
+          "price": 24.4
+        }
+      ]
+    },
+    {
+      "name": "Giraffas Mex",
+      "cuisine": "Mexicana",
+      "rating": 4.1,
+      "reviews": 151,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Giraffas+Mex",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 32.11
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 27.51
+        }
+      ]
+    },
+    {
+      "name": "Taco Bell",
+      "cuisine": "Mexicana",
+      "rating": 4.2,
+      "reviews": 317,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Taco+Bell",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 34.97
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 30.29
+        }
+      ]
+    },
+    {
+      "name": "Burrito Loco",
+      "cuisine": "Mexicana",
+      "rating": 4.2,
+      "reviews": 450,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Burrito+Loco",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 37.91
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 33.16
+        }
+      ]
+    },
+    {
+      "name": "Mexicana Grill",
+      "cuisine": "Mexicana",
+      "rating": 4.4,
+      "reviews": 691,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Mexicana+Grill",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 33.68
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 28.85
+        }
+      ]
+    },
+    {
+      "name": "El Torito",
+      "cuisine": "Mexicana",
+      "rating": 4.5,
+      "reviews": 770,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=El+Torito",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 36.65
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 31.75
+        }
+      ]
+    },
+    {
+      "name": "Cantina Mexicana",
+      "cuisine": "Mexicana",
+      "rating": 4.5,
+      "reviews": 887,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Cantina+Mexicana",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 36.71
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 32.11
+        }
+      ]
+    },
+    {
+      "name": "Chili's",
+      "cuisine": "Mexicana",
+      "rating": 4.7,
+      "reviews": 612,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Chili%27s",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 32.63
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 27.96
+        }
+      ]
+    },
+    {
+      "name": "Guacamole",
+      "cuisine": "Mexicana",
+      "rating": 4.8,
+      "reviews": 947,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Guacamole",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 35.53
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 30.78
+        }
+      ]
+    },
+    {
+      "name": "La Mexicana",
+      "cuisine": "Mexicana",
+      "rating": 4.9,
+      "reviews": 924,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=La+Mexicana",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 38.5
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 33.68
+        }
+      ]
+    },
+    {
+      "name": "Taco House",
+      "cuisine": "Mexicana",
+      "rating": 4.1,
+      "reviews": 1192,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Taco+House",
+      "items": [
+        {
+          "name": "Burrito",
+          "price": 34.2
+        },
+        {
+          "name": "Tacos 3un",
+          "price": 29.3
+        }
+      ]
+    },
+    {
+      "name": "Acai da Barra",
+      "cuisine": "Acai",
+      "rating": 4.1,
+      "reviews": 510,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+da+Barra",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 21.07
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 26.59
+        }
+      ]
+    },
+    {
+      "name": "Acai do Norte",
+      "cuisine": "Acai",
+      "rating": 4.2,
+      "reviews": 621,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+do+Norte",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 23.75
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 29.36
+        }
+      ]
+    },
+    {
+      "name": "Bom Acai",
+      "cuisine": "Acai",
+      "rating": 4.2,
+      "reviews": 506,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bom+Acai",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 26.5
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 32.2
+        }
+      ]
+    },
+    {
+      "name": "Acai Mix",
+      "cuisine": "Acai",
+      "rating": 4.4,
+      "reviews": 496,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+Mix",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 22.1
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 27.89
+        }
+      ]
+    },
+    {
+      "name": "Acai Point",
+      "cuisine": "Acai",
+      "rating": 4.5,
+      "reviews": 481,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+Point",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 24.89
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 30.77
+        }
+      ]
+    },
+    {
+      "name": "Tropical Acai",
+      "cuisine": "Acai",
+      "rating": 4.5,
+      "reviews": 568,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Tropical+Acai",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 25.67
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 31.19
+        }
+      ]
+    },
+    {
+      "name": "Acai Top",
+      "cuisine": "Acai",
+      "rating": 4.7,
+      "reviews": 662,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+Top",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 21.41
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 27.02
+        }
+      ]
+    },
+    {
+      "name": "Acai Mania",
+      "cuisine": "Acai",
+      "rating": 4.8,
+      "reviews": 866,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+Mania",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 24.13
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 29.83
+        }
+      ]
+    },
+    {
+      "name": "Acai da Praia",
+      "cuisine": "Acai",
+      "rating": 4.9,
+      "reviews": 1017,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+da+Praia",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 26.92
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 32.71
+        }
+      ]
+    },
+    {
+      "name": "Acai Power",
+      "cuisine": "Acai",
+      "rating": 4.1,
+      "reviews": 989,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Acai+Power",
+      "items": [
+        {
+          "name": "Acai 500ml",
+          "price": 22.44
+        },
+        {
+          "name": "Acai com Nutella 700ml",
+          "price": 28.32
+        }
+      ]
+    },
+    {
+      "name": "Marmitaria Fit",
+      "cuisine": "Marmita",
+      "rating": 4.1,
+      "reviews": 185,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmitaria+Fit",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 22.91
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 24.75
+        }
+      ]
+    },
+    {
+      "name": "Marmita Express",
+      "cuisine": "Marmita",
+      "rating": 4.2,
+      "reviews": 532,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+Express",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 25.62
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 27.49
+        }
+      ]
+    },
+    {
+      "name": "Panela de Ferro",
+      "cuisine": "Marmita",
+      "rating": 4.2,
+      "reviews": 665,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Panela+de+Ferro",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 28.41
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 30.3
+        }
+      ]
+    },
+    {
+      "name": "Marmita da Vó",
+      "cuisine": "Marmita",
+      "rating": 4.4,
+      "reviews": 597,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+da+V%C3%B3",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 24.03
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 25.96
+        }
+      ]
+    },
+    {
+      "name": "Refeição Pronta",
+      "cuisine": "Marmita",
+      "rating": 4.5,
+      "reviews": 543,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Refei%C3%A7%C3%A3o+Pronta",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 26.85
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 28.81
+        }
+      ]
+    },
+    {
+      "name": "Marmita Caseira",
+      "cuisine": "Marmita",
+      "rating": 4.5,
+      "reviews": 504,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+Caseira",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 27.51
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 29.35
+        }
+      ]
+    },
+    {
+      "name": "Chef Marmita",
+      "cuisine": "Marmita",
+      "rating": 4.7,
+      "reviews": 714,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Chef+Marmita",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 23.28
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 25.15
+        }
+      ]
+    },
+    {
+      "name": "Marmita Gourmet",
+      "cuisine": "Marmita",
+      "rating": 4.8,
+      "reviews": 1064,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+Gourmet",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 26.03
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 27.93
+        }
+      ]
+    },
+    {
+      "name": "Marmita do Dia",
+      "cuisine": "Marmita",
+      "rating": 4.9,
+      "reviews": 723,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+do+Dia",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 28.85
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 30.78
+        }
+      ]
+    },
+    {
+      "name": "Marmita Brasil",
+      "cuisine": "Marmita",
+      "rating": 4.1,
+      "reviews": 884,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Marmita+Brasil",
+      "items": [
+        {
+          "name": "Marmita Executiva",
+          "price": 24.4
+        },
+        {
+          "name": "Marmita Fit",
+          "price": 26.36
+        }
+      ]
+    },
+    {
+      "name": "Giraffas",
+      "cuisine": "Frango",
+      "rating": 4.1,
+      "reviews": 340,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Giraffas",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 27.51
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 30.27
+        }
+      ]
+    },
+    {
+      "name": "KFC",
+      "cuisine": "Frango",
+      "rating": 4.2,
+      "reviews": 493,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=KFC",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 30.29
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 33.1
+        }
+      ]
+    },
+    {
+      "name": "Frango Assado Ponto",
+      "cuisine": "Frango",
+      "rating": 4.2,
+      "reviews": 416,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Frango+Assado+Ponto",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 33.16
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 36.01
+        }
+      ]
+    },
+    {
+      "name": "Spoleto Frango",
+      "cuisine": "Frango",
+      "rating": 4.4,
+      "reviews": 464,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Spoleto+Frango",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 28.85
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 31.75
+        }
+      ]
+    },
+    {
+      "name": "Frango no Pote",
+      "cuisine": "Frango",
+      "rating": 4.5,
+      "reviews": 616,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Frango+no+Pote",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 31.75
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 34.69
+        }
+      ]
+    },
+    {
+      "name": "Frango da Casa",
+      "cuisine": "Frango",
+      "rating": 4.5,
+      "reviews": 518,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Frango+da+Casa",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 32.11
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 34.87
+        }
+      ]
+    },
+    {
+      "name": "Frango Frito Top",
+      "cuisine": "Frango",
+      "rating": 4.7,
+      "reviews": 753,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Frango+Frito+Top",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 27.96
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 30.76
+        }
+      ]
+    },
+    {
+      "name": "Assados do Frango",
+      "cuisine": "Frango",
+      "rating": 4.8,
+      "reviews": 819,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Assados+do+Frango",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 30.78
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 33.63
+        }
+      ]
+    },
+    {
+      "name": "Frango & Cia",
+      "cuisine": "Frango",
+      "rating": 4.9,
+      "reviews": 837,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Frango+%26+Cia",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 33.68
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 36.57
+        }
+      ]
+    },
+    {
+      "name": "Golden Chicken",
+      "cuisine": "Frango",
+      "rating": 4.1,
+      "reviews": 1188,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Golden+Chicken",
+      "items": [
+        {
+          "name": "Frango Assado",
+          "price": 29.3
+        },
+        {
+          "name": "Combo Frango Frito",
+          "price": 32.24
+        }
+      ]
+    },
+    {
+      "name": "Subway",
+      "cuisine": "Lanches",
+      "rating": 4.1,
+      "reviews": 548,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Subway",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 22.91
+        },
+        {
+          "name": "Misto Quente",
+          "price": 17.39
+        }
+      ]
+    },
+    {
+      "name": "Casa do Pao de Queijo",
+      "cuisine": "Lanches",
+      "rating": 4.2,
+      "reviews": 487,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Casa+do+Pao+de+Queijo",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 25.62
+        },
+        {
+          "name": "Misto Quente",
+          "price": 20.01
+        }
+      ]
+    },
+    {
+      "name": "Lanchonete da Esquina",
+      "cuisine": "Lanches",
+      "rating": 4.2,
+      "reviews": 664,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Lanchonete+da+Esquina",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 28.41
+        },
+        {
+          "name": "Misto Quente",
+          "price": 22.71
+        }
+      ]
+    },
+    {
+      "name": "Mega Lanche",
+      "cuisine": "Lanches",
+      "rating": 4.4,
+      "reviews": 722,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Mega+Lanche",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 24.03
+        },
+        {
+          "name": "Misto Quente",
+          "price": 18.24
+        }
+      ]
+    },
+    {
+      "name": "Point do Lanche",
+      "cuisine": "Lanches",
+      "rating": 4.5,
+      "reviews": 576,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Point+do+Lanche",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 26.85
+        },
+        {
+          "name": "Misto Quente",
+          "price": 20.97
+        }
+      ]
+    },
+    {
+      "name": "Lanche Cidade",
+      "cuisine": "Lanches",
+      "rating": 4.5,
+      "reviews": 855,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Lanche+Cidade",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 27.51
+        },
+        {
+          "name": "Misto Quente",
+          "price": 21.99
+        }
+      ]
+    },
+    {
+      "name": "Hot Dog Mania",
+      "cuisine": "Lanches",
+      "rating": 4.7,
+      "reviews": 860,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Hot+Dog+Mania",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 23.28
+        },
+        {
+          "name": "Misto Quente",
+          "price": 17.67
+        }
+      ]
+    },
+    {
+      "name": "Lancheria Central",
+      "cuisine": "Lanches",
+      "rating": 4.8,
+      "reviews": 821,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Lancheria+Central",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 26.03
+        },
+        {
+          "name": "Misto Quente",
+          "price": 20.33
+        }
+      ]
+    },
+    {
+      "name": "Sanduba Top",
+      "cuisine": "Lanches",
+      "rating": 4.9,
+      "reviews": 728,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sanduba+Top",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 28.85
+        },
+        {
+          "name": "Misto Quente",
+          "price": 23.06
+        }
+      ]
+    },
+    {
+      "name": "Lanche & Cia",
+      "cuisine": "Lanches",
+      "rating": 4.1,
+      "reviews": 936,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Lanche+%26+Cia",
+      "items": [
+        {
+          "name": "X-Salada",
+          "price": 24.4
+        },
+        {
+          "name": "Misto Quente",
+          "price": 18.52
+        }
+      ]
+    },
+    {
+      "name": "Cacau Show",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.1,
+      "reviews": 537,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Cacau+Show",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 13.71
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 15.55
+        }
+      ]
+    },
+    {
+      "name": "Bacio di Latte",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.2,
+      "reviews": 240,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bacio+di+Latte",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 16.27
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 18.14
+        }
+      ]
+    },
+    {
+      "name": "Casa do Bolo",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.2,
+      "reviews": 280,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Casa+do+Bolo",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 18.91
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 20.8
+        }
+      ]
+    },
+    {
+      "name": "Doceria da Vila",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.4,
+      "reviews": 533,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Doceria+da+Vila",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 14.38
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 16.31
+        }
+      ]
+    },
+    {
+      "name": "Sweet House",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.5,
+      "reviews": 574,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sweet+House",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 17.05
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 19.01
+        }
+      ]
+    },
+    {
+      "name": "Confeitaria Arte Doce",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.5,
+      "reviews": 624,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Confeitaria+Arte+Doce",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 18.31
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 20.15
+        }
+      ]
+    },
+    {
+      "name": "Bolos da Sogra",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.7,
+      "reviews": 912,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Bolos+da+Sogra",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 13.93
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 15.8
+        }
+      ]
+    },
+    {
+      "name": "Chocolateria",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.8,
+      "reviews": 1069,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Chocolateria",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 16.53
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 18.43
+        }
+      ]
+    },
+    {
+      "name": "Doce Mania",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.9,
+      "reviews": 960,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Doce+Mania",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 19.2
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 21.13
+        }
+      ]
+    },
+    {
+      "name": "Patisserie Francesa",
+      "cuisine": "Doces e Bolos",
+      "rating": 4.1,
+      "reviews": 971,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Patisserie+Francesa",
+      "items": [
+        {
+          "name": "Bolo de Chocolate fatia",
+          "price": 14.6
+        },
+        {
+          "name": "Brigadeiro 4un",
+          "price": 16.56
+        }
+      ]
+    },
+    {
+      "name": "Padaria Central",
+      "cuisine": "Padaria",
+      "rating": 4.1,
+      "reviews": 209,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Central",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 21.07
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 11.87
+        }
+      ]
+    },
+    {
+      "name": "Padaria Sao Paulo",
+      "cuisine": "Padaria",
+      "rating": 4.2,
+      "reviews": 289,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Sao+Paulo",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 23.75
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 14.4
+        }
+      ]
+    },
+    {
+      "name": "Panificadora Real",
+      "cuisine": "Padaria",
+      "rating": 4.2,
+      "reviews": 613,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Panificadora+Real",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 26.5
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 17.0
+        }
+      ]
+    },
+    {
+      "name": "Padaria do Bairro",
+      "cuisine": "Padaria",
+      "rating": 4.4,
+      "reviews": 459,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+do+Bairro",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 22.1
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 12.45
+        }
+      ]
+    },
+    {
+      "name": "Padaria Colonial",
+      "cuisine": "Padaria",
+      "rating": 4.5,
+      "reviews": 510,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Colonial",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 24.89
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 15.09
+        }
+      ]
+    },
+    {
+      "name": "Padaria Forno Quente",
+      "cuisine": "Padaria",
+      "rating": 4.5,
+      "reviews": 916,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Forno+Quente",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 25.67
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 16.47
+        }
+      ]
+    },
+    {
+      "name": "Padaria Estrela",
+      "cuisine": "Padaria",
+      "rating": 4.7,
+      "reviews": 815,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Estrela",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 21.41
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 12.06
+        }
+      ]
+    },
+    {
+      "name": "Padaria Nova Era",
+      "cuisine": "Padaria",
+      "rating": 4.8,
+      "reviews": 1036,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Nova+Era",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 24.13
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 14.63
+        }
+      ]
+    },
+    {
+      "name": "Padaria Artesanal",
+      "cuisine": "Padaria",
+      "rating": 4.9,
+      "reviews": 918,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+Artesanal",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 26.92
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 17.27
+        }
+      ]
+    },
+    {
+      "name": "Padaria & Cafe",
+      "cuisine": "Padaria",
+      "rating": 4.1,
+      "reviews": 888,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Padaria+%26+Cafe",
+      "items": [
+        {
+          "name": "Cafe da Manha",
+          "price": 22.44
+        },
+        {
+          "name": "Pao na Chapa",
+          "price": 12.64
+        }
+      ]
+    },
+    {
+      "name": "Veggie House",
+      "cuisine": "Vegana",
+      "rating": 4.1,
+      "reviews": 272,
+      "deliveryTime": 27,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Veggie+House",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 33.95
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 32.11
+        }
+      ]
+    },
+    {
+      "name": "Green Vegan",
+      "cuisine": "Vegana",
+      "rating": 4.2,
+      "reviews": 584,
+      "deliveryTime": 30,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Green+Vegan",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 36.84
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 34.97
+        }
+      ]
+    },
+    {
+      "name": "Plant Based",
+      "cuisine": "Vegana",
+      "rating": 4.2,
+      "reviews": 553,
+      "deliveryTime": 33,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Plant+Based",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 39.8
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 37.91
+        }
+      ]
+    },
+    {
+      "name": "Vegan Kitchen",
+      "cuisine": "Vegana",
+      "rating": 4.4,
+      "reviews": 770,
+      "deliveryTime": 36,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vegan+Kitchen",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 35.61
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 33.68
+        }
+      ]
+    },
+    {
+      "name": "Terra Vegana",
+      "cuisine": "Vegana",
+      "rating": 4.5,
+      "reviews": 653,
+      "deliveryTime": 39,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Terra+Vegana",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 38.61
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 36.65
+        }
+      ]
+    },
+    {
+      "name": "Vida Vegana",
+      "cuisine": "Vegana",
+      "rating": 4.5,
+      "reviews": 842,
+      "deliveryTime": 27,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vida+Vegana",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 38.55
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 36.71
+        }
+      ]
+    },
+    {
+      "name": "Roots Vegan",
+      "cuisine": "Vegana",
+      "rating": 4.7,
+      "reviews": 929,
+      "deliveryTime": 30,
+      "deliveryFee": 4.49,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Roots+Vegan",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 34.5
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 32.63
+        }
+      ]
+    },
+    {
+      "name": "Sem Carne",
+      "cuisine": "Vegana",
+      "rating": 4.8,
+      "reviews": 662,
+      "deliveryTime": 33,
+      "deliveryFee": 4.94,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Sem+Carne",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 37.43
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 35.53
+        }
+      ]
+    },
+    {
+      "name": "Vegan Express",
+      "cuisine": "Vegana",
+      "rating": 4.9,
+      "reviews": 731,
+      "deliveryTime": 36,
+      "deliveryFee": 3.59,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Vegan+Express",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 40.43
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 38.5
+        }
+      ]
+    },
+    {
+      "name": "Alma Verde",
+      "cuisine": "Vegana",
+      "rating": 4.1,
+      "reviews": 1152,
+      "deliveryTime": 39,
+      "deliveryFee": 4.04,
+      "url": "https://food.99app.com/pt-BR/search?keyword=Alma+Verde",
+      "items": [
+        {
+          "name": "Hamburguer Vegano",
+          "price": 36.16
+        },
+        {
+          "name": "Bowl Vegano",
+          "price": 34.2
+        }
+      ]
+    }
+  ]
+}

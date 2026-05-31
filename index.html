@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Trivago Food — iFood e 99 Food</title>
+</head>
+<body data-view="login">
+    <div id="view-offline" class="view">
+        <div class="auth-box offline-box">
+            <div class="brand-lockup">
+                <p class="brand-title"><span class="brand-trivago">Trivago</span> <span class="brand-food">Food</span></p>
+            </div>
+            <p class="offline-title">Servidor nao iniciado</p>
+            <p class="auth-sub">De duplo clique em <strong>iniciar.bat</strong> na pasta do projeto. Mantenha a janela aberta.</p>
+            <button type="button" id="retry-server-btn" class="btn btn-primary">Tentar novamente</button>
+            <p id="offline-message" class="form-msg" role="status"></p>
+        </div>
+    </div>
+    <div id="server-banner" class="server-banner hidden" role="status" aria-hidden="true">
+        <span id="server-banner-text">Conectando ao servidor...</span>
+        <a id="server-banner-link" class="server-banner-link hidden" href="http://127.0.0.1:5000">Abrir site correto</a>
+    </div>
+
+    <div id="view-login" class="view view-active">
+        <div class="auth-box">
+            <div class="brand-lockup">
+                <img src="logo-trivago-food.png" alt="Logo Trivago Food" class="logo-img" onerror="this.style.display='none'">
+                <p class="brand-title"><span class="brand-trivago">Trivago</span> <span class="brand-food">Food</span></p>
+            </div>
+            <form id="login-form" class="form-stack">
+                <input id="login-email" type="email" placeholder="E-mail" autocomplete="email" required>
+                <div class="password-row">
+                    <input id="login-password" type="password" placeholder="Senha" autocomplete="current-password" required>
+                    <button type="button" id="toggle-password" class="icon-btn" aria-label="Mostrar senha">&#9673;</button>
+                </div>
+                <label class="check-row">
+                    <input type="checkbox" id="remember-me">
+                    Manter conectado
+                </label>
+                <button type="submit" class="btn btn-primary" id="login-submit">Entrar</button>
+                <p id="login-message" class="form-msg" role="alert"></p>
+            </form>
+
+            <p class="auth-footer">
+                Sem conta?
+                <button type="button" id="go-register" class="text-btn">Cadastrar</button>
+            </p>
+        </div>
+    </div>
+
+    <div id="view-register" class="view">
+        <div class="auth-box">
+            <div class="brand-lockup">
+                <img src="logo-trivago-food.png" alt="Logo Trivago Food" class="logo-img" onerror="this.style.display='none'">
+                <p class="brand-title"><span class="brand-trivago">Trivago</span> <span class="brand-food">Food</span></p>
+            </div>
+            <form id="register-form" class="form-stack">
+                <input id="register-name" type="text" placeholder="Nome completo" required>
+                <input id="register-email" type="email" placeholder="E-mail" autocomplete="email" required>
+                <input id="register-password" type="password" placeholder="Senha (min. 6)" minlength="6" autocomplete="new-password" required>
+                <input id="register-confirm" type="password" placeholder="Confirmar senha" minlength="6" autocomplete="new-password" required>
+                <button type="submit" class="btn btn-primary" id="register-submit">Criar conta</button>
+                <p id="register-message" class="form-msg" role="alert"></p>
+            </form>
+
+            <p class="auth-footer">
+                Ja tem conta?
+                <button type="button" id="back-login" class="text-btn">Entrar</button>
+            </p>
+        </div>
+    </div>
+
+    <div id="view-app" class="view">
+        <header class="topbar">
+            <div>
+                <div class="brand-lockup brand-lockup--compact">
+                    <img src="logo-trivago-food.png" alt="Logo Trivago Food" class="logo-img" onerror="this.style.display='none'">
+                    <p class="brand-title brand-title-sm"><span class="brand-trivago">Trivago</span> <span class="brand-food">Food</span></p>
+                </div>
+            </div>
+            <button type="button" id="logout-btn" class="btn btn-ghost">Sair</button>
+        </header>
+
+        <nav class="tabs" role="tablist">
+            <button type="button" class="tab tab-active" data-tab="compare" role="tab" aria-selected="true">Comparar</button>
+            <button type="button" class="tab" data-tab="assistant" role="tab" aria-selected="false">IA</button>
+        </nav>
+
+        <main class="main-content">
+            <section id="panel-compare" class="panel panel-active" role="tabpanel">
+                <div class="hero-compare">
+                    <form id="compare-search-form" class="hero-search" role="search">
+                        <input id="compare-query" type="search" placeholder="Buscar restaurante">
+                        <button type="submit" class="btn btn-hero" id="compare-search-btn">Buscar</button>
+                    </form>
+                    <p id="ifood-status" class="hero-status hidden" aria-live="polite"></p>
+                </div>
+
+                <div class="filters-bar">
+                    <select id="cuisine-filter" aria-label="Cozinha">
+                        <option value="">Todas</option>
+                    </select>
+                    <select id="sort-by" aria-label="Ordenar">
+                        <option value="price">Melhor preco</option>
+                        <option value="rating">Melhor nota</option>
+                    </select>
+                </div>
+
+                <div id="restaurant-list" class="compare-list"></div>
+            </section>
+
+            <section id="panel-assistant" class="panel" role="tabpanel" hidden>
+                <form id="ai-form" class="form-stack ai-form-compact">
+                    <select id="goal" required>
+                        <option value="equilibrada">Equilibrada</option>
+                        <option value="perder_peso">Perder peso</option>
+                        <option value="ganhar_massa">Ganhar massa</option>
+                    </select>
+                    <input id="preferences" type="text" placeholder="Preferencia (opcional)">
+                    <input id="budget" type="number" min="10" step="1" placeholder="Orcamento (R$)" required>
+                    <input type="hidden" id="platform" value="any">
+                    <button type="submit" class="btn btn-primary" id="ai-submit-btn">Recomendar</button>
+                </form>
+
+                <article id="ai-response" class="ai-box ai-box--empty">
+                    <p class="muted">Preencha e envie.</p>
+                </article>
+            </section>
+        </main>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
